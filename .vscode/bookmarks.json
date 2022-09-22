@@ -1,0 +1,67 @@
+[
+	{
+		"path": "$ROOTPATH$/js/app.js",
+		"bookmarks": [
+			{
+				"line": 28,
+				"column": 1,
+				"label": ""
+			},
+			{
+				"line": 44,
+				"column": 13,
+				"label": ""
+			},
+			{
+				"line": 124,
+				"column": 8,
+				"label": ""
+			},
+			{
+				"line": 221,
+				"column": 22,
+				"label": ""
+			},
+			{
+				"line": 362,
+				"column": 7,
+				"label": ""
+			},
+			{
+				"line": 422,
+				"column": 2,
+				"label": ""
+			},
+			{
+				"line": 469,
+				"column": 3,
+				"label": ""
+			},
+			{
+				"line": 603,
+				"column": 8,
+				"label": ""
+			},
+			{
+				"line": 616,
+				"column": 7,
+				"label": ""
+			},
+			{
+				"line": 716,
+				"column": 2,
+				"label": ""
+			},
+			{
+				"line": 728,
+				"column": 13,
+				"label": ""
+			},
+			{
+				"line": 810,
+				"column": 9,
+				"label": ""
+			}
+		]
+	}
+]
