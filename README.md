@@ -107,5 +107,5 @@ The goal is to create an aesthetically pleasing, minimal-yet-satisfying game loo
 
 ---------------------------------------------
 
-### ©️ Code Contributed by, Abhishek Sharma, 2021 :link: <a href = "https://github.com/abhisheks008"> abhisheks008 </a>
+### ©️ Code Contributed by, Abhishek Sharma, 2022 :link: <a href = "https://github.com/abhisheks008"> abhisheks008 </a>
 #### Show some :heart: if you like it!
